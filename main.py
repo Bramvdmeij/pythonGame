@@ -1,7 +1,7 @@
 from classes.tamagotchi import Tamagotchi
 
 def main():
-    # create objects
+    # create objects TEST
     tamagotchi = Tamagotchi()
 
     # start game
