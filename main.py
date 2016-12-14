@@ -1,7 +1,7 @@
 from classes.tamagotchi import Tamagotchi
 
 def main():
-    # create objects TEST
+    # create objects TEST PYCHARm
     tamagotchi = Tamagotchi()
 
     # start game
