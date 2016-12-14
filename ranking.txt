@@ -1,0 +1,11 @@
+Positie;Datum;Speler;Naam;Jaar;Score
+1;<leeg>;<leeg>;<leeg>;<leeg>;0
+2;<leeg>;<leeg>;<leeg>;<leeg>;0
+3;<leeg>;<leeg>;<leeg>;<leeg>;0
+4;<leeg>;<leeg>;<leeg>;<leeg>;0
+5;<leeg>;<leeg>;<leeg>;<leeg>;0
+6;<leeg>;<leeg>;<leeg>;<leeg>;0
+7;<leeg>;<leeg>;<leeg>;<leeg>;0
+8;<leeg>;<leeg>;<leeg>;<leeg>;0
+9;<leeg>;<leeg>;<leeg>;<leeg>;0
+10;<leeg>;<leeg>;<leeg>;<leeg>;0
